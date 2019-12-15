@@ -1,6 +1,8 @@
 ### cuda
   #### all about cuda issues
   
+  
+  
   1. /bin/sh: 1: nvcc: not found - solution:
   
   ```
