@@ -1,1 +1,4 @@
-# cuda
+### cuda
+  all about cuda issues
+  
+  
